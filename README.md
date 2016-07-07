@@ -1,2 +1,3 @@
-# wp-twitch-banner
-Adds a banner to a WordPress website when a configured Twitch stream goes live
+# Twitch Banner
+
+If online, adds a banner to the bottom of your Wordpress site with a link to your Twitch profile.
